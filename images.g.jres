@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAMzMAAAAAADARMwMAAAAAMx9DMwAAAAAzM0TzAAADADMRQzMAMAMAMx8zMwAzAAAwMzMDMDMAAwAzMzMzMzMDADAzM0MzMwMAADMzMzMEAAAAMDMzM0MAAAAAM0MzBAMAAAAwMzMzAwAAAAAzMzMDAAAAADMzAAAAAAAAMDMzAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAADQ0QAAAAAAAEBBAAAAAAAAQEUAAAAAAADU1QQAAADQRF1VTdQAAB1RVVVVEQ0A0ERdVU3UAAAAANTVBAAAAAAAQEUAAAAAAABAQQAAAAAAANDRAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Star"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
